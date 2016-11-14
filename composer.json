@@ -3,6 +3,7 @@
     "description": "Tool to manipulate ICS/iCalendar files",
     "type": "project",
     "require": {
+    	"php" : "~7",
         "sabre/vobject": "^4.0"
     },
     "license": "MIT",
