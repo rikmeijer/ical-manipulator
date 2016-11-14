@@ -1,0 +1,15 @@
+{
+    "name": "hameijer/ical-manipulator",
+    "description": "Tool to manipulate ICS/iCalendar files",
+    "type": "project",
+    "require": {
+        "sabre/vobject": "^4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rik Meijer",
+            "email": "rikmeijer@gmail.com"
+        }
+    ]
+}
